@@ -1,2 +1,1 @@
-streamlit
-sklearn
+joblib==1.0.1
